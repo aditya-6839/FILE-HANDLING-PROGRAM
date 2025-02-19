@@ -24,3 +24,5 @@ Read from a File – Opens an existing file and displays its contents.
 Append to a File – Adds additional data to an already existing file.
 Exit – Terminates the program.
 Each operation is implemented as a separate function to enhance modularity and maintainability. The program handles errors gracefully, ensuring a smooth user experience.
+
+**OUTPUT**: https://github.com/user-attachments/files/18870993/File.Operations.Menu.docx
